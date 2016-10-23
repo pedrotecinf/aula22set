@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: anony
+
  * Date: 15/09/16
  * Time: 08:31
  */
@@ -75,11 +75,3 @@ include("conexao.php");
 
     header('location:index.php');
 ?>
-
-
-
-
-
-
-
-
